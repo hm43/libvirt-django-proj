@@ -6,9 +6,9 @@ that project require :
 - django
 
 for libvirt
-- in centos 7 : $ yum install lbvirt-devel
-- upload : https://pypi.python.org/pypi/libvirt-python
-- follow the README file after unzip
+- in centos 7 : $ yum install libvirt-devel
+- download : https://pypi.python.org/pypi/libvirt-python
+- unzip & follow the README file
 - using python3 in install 
 
 
